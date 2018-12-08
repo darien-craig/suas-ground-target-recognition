@@ -1,1 +1,2 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VwhbhleqHug" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Youtube link, because submissions won't show comments or accept multiple links
+https://youtu.be/VwhbhleqHug
